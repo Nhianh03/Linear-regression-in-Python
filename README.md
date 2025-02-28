@@ -1,2 +1,10 @@
 # Linear-regression-in-Python
-Hello friends,  Linear regression is a very simple and easy to understand machine learning algorithm. In this article, I will build a linear regression model for the medical expenses dataset.  We will predict the personal medical expenses paid by health insurance.  So, let's get started.
+**Linear Regression works well when:**
+
+✅ The data has a linear relationship between X and Y .
+
+✅ There are not too many outliers that distort the model.
+
+✅ The input variables do not have too many strong correlations with each other (multicollinearity).
+
+Conversely, if the data tends to be non-linear, more complex models such as Polynomial Regression or other non-linear models may be needed.
